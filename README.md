@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Bhansali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/_pratham__" target="blank"><img src="https://img.shields.io/twitter/follow/_pratham__?logo=twitter&style=for-the-badge" alt="_pratham__" /></a> </p>
 
