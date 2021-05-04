@@ -22,7 +22,6 @@
     <a href="https://www.facebook.com/prathambhansali10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/facebook.png" alt="prathambhansali10" height="40" width="40" /></a>
     <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/instagram.png" alt="_.pratham.__" height="40" width="40" /></a>
 </div>
-<br>
 <h2 align="left">⚡ Blogging:</h2>
 <div align="left">
     <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/dev.png" alt="@_pratham__" height="40" width="40" /></a>
@@ -30,7 +29,6 @@
     <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hashnode.png" alt="@prathmesh-bhansali" height="40" width="40" /></a>
     <a href="https://hackernoon.com/u/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackernoon.png" alt="@prathmesh-bhansali" height="40" width="40" /></a>
 </div>
-<br>
 <h2 align="left">⚡ Competitive Programming & Hackthons:</h2>
 <div align="left">
     <a href="https://www.codechef.com/users/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codechef.jpg" alt="prathamb_10" height="40" width="40" /></a>
