@@ -45,8 +45,8 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25">
 </p> 
 <p align = "center">
-  <img max-width = "45%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
-  <img max-width = "45%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=pratham-10&theme=redical">
