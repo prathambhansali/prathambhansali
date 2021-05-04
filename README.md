@@ -1,5 +1,5 @@
-# <p align="center">️ **Hello World !!<img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" alt="waving hand" width="30px">** 🎯️🚀️</p>
-<h3 align="center">A passionate developer from India</h3>
+# <p align="center">️ **Hello World !!<img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" alt="waving hand" width="30px">** </p>
+<h3 align="center">*A passionate developer from India* 🎯️🚀️</h3>
 <p align = "center"> 
  <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/Cover%20Banner.png" alt="cover banner" width="100%">
 </p>  
@@ -42,7 +42,7 @@
   <img width="50%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=27">
 </p>
 <p align = "center">  
-<img height="100%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&layout=compact&line_height=0">
+<img height="195px" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&layout=compact&line_height=0">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 <p align = "center">
