@@ -72,7 +72,7 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
 </div>
- <img width="50%" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25">
+<img width="50%" align="left" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25&layout=compact">
 <p align = "center">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
