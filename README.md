@@ -6,6 +6,7 @@
    <h3 align="center">I'm a Passionate Developer from India ❤🚀️</h3>
      
    A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
+   <img width="50%" height="50%" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/coding.gif" />
    
    - 🔭 I’m currently working on **Angular and Django**
    
