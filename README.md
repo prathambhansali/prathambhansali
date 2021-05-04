@@ -15,7 +15,7 @@
    
    - 📫 How to reach me **prathambhansali10@gmail.com**
    
-   <h2 align="left" style="color:white">Connect with me:</h2>
+   <h2 align="left" style="color:white"> ⚡ Connect with me:</h2>
    <div align="center">
        <a href="https://codepen.io/prathamb_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="prathamb_10" height="30" width="40" /></a>
        <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@_pratham__" height="30" width="40" /></a>
@@ -37,7 +37,7 @@
        <a href="https://www.topcoder.com/members/pratham10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="pratham10" height="30" width="40" /></a>
    </div>
     <br>
- <h2 align="left">Languages and Tools:</h2>
+ <h2 align="left">💻 Languages and Tools:</h2>
 <div align="center"> 
     <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -67,6 +67,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </div>
 <br>
+<h3 align="left" style="color:white">🏆 Stats:</h3>
+
    <p align = "center">
      <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
      <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
