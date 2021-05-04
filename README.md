@@ -7,7 +7,7 @@
   
 A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/coding.gif" />
 
 - 🔭 I’m currently working on **Angular and Django**
 
@@ -76,9 +76,7 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
     <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </div>
-<p align = "right">  
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25">
-</p> 
+ <img width="50%" align="right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25">
 <p align = "center">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
