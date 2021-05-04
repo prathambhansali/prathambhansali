@@ -7,17 +7,11 @@
   
 A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
 
-<img width="50%" height="50%" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/coding.gif" />
-
 - 🔭 I’m currently working on **Angular and Django**
 
 - 🌱 I’m currently learning **Machine Learning and Competitive Programming**
 
 - 📫 How to reach me **prathambhansali10@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="center" style="color:white">Connect with me:</h3>
 <div align="center">
@@ -88,3 +82,7 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=pratham-10&theme=redical">
 </p>  
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
