@@ -36,7 +36,7 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-<div>
+<div align="right" display="inline">
     <div align="center"> 
         <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
         <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
@@ -53,7 +53,7 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
         <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
         <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
         <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> 
-    </div>
+    </div >
     <div align="center"> 
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
         <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
@@ -71,7 +71,9 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
         <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     </div>
-  <img width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25&layout=compact">
+</div>
+<div align="right" display="inline">
+    <img width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25&layout=compact">
 </div>
 <p align = "center">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
