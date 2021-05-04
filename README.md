@@ -17,7 +17,7 @@
    
    <h2 align="left" style="color:white"> ⚡ Connect with me:</h2>
    <div align="center">
-       <a href="https://codepen.io/prathamb_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="prathamb_10" height="30" width="40" /></a>
+       <a href="https://codepen.io/prathamb_10" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" alt="prathamb_10" height="30" width="40" /></a>
        <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@_pratham__" height="30" width="40" /></a>
        <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_pratham__" height="30" width="40" /></a>
        <a href="https://linkedin.com/in/prathmeshbhansali" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prathmeshbhansali" height="30" width="40" /></a>
@@ -67,7 +67,7 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </div>
 <br>
-<h3 align="left" style="color:white">🏆 Stats:</h3>
+<h2 align="left" style="color:white">🏆 Stats:</h2>
 
    <p align = "center">
      <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
