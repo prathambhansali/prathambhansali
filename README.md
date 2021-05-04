@@ -23,15 +23,15 @@
     <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="_.pratham.__" width="40" height="40"/></a>
 </div>
 <br>
-<h2 align="left">📜 Blogging:</h2>
+<h2 align="left">⚡ Blogging:</h2>
 <div align="left">
     <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="@_pratham__" width="40" height="40"/></a>
-    <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-icon.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
+    <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/medium.png" alt="@prathmesh-bhansali" width="40" height="40"/></a>
     <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
     <a href="https://hackernoon.com/u/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackernoon.png" alt="@prathmesh-bhansali" width="40" height="40"/></a>
 </div>
 <br>
-<h2 align="left">📊 Competitive Programming & Hackthons:</h2>
+<h2 align="left">⚡ Competitive Programming & Hackthons:</h2>
 <div align="left">
     <a href="https://www.codechef.com/users/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codechef.jpg" alt="prathamb_10" height="50" width="50" /></a>
     <a href="https://www.hackerrank.com/prathambhansali" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerrank.png" alt="prathambhansali" height="50" width="50" /></a>
@@ -39,7 +39,7 @@
     <a href="https://www.leetcode.com/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/leetcode.png" alt="prathamb_10" height="50" width="50" /></a>
     <a href="https://www.hackerearth.com/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" alt="@pratham_10" height="50" width="50" /></a>
     <a href="https://www.topcoder.com/members/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/topcoder.png" alt="pratham10" height="50" width="50" /></a>
-    <a href="https://kaggle.com/pratham10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="pratham10" height="50" width="50" /></a>
+    <a href="https://kaggle.com/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/kaggle.png" alt="pratham10" height="50" width="50" /></a>
     <a href="https://jovian.ai/pratham-10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/jovian.png" alt="pratham-10" height="50" width="50" /></a>
     <a href="https://devfolio.co/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/devfolio.png" alt="pratham-10" height="50" width="50" /></a>
 </div>
@@ -77,4 +77,4 @@
 </p>
 <p align = "center">
     <img src="https://activity-graph.herokuapp.com/graph?username=pratham-10&theme=redical">
-</p>  
+</p> 
