@@ -1,6 +1,8 @@
-# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" alt="waving hand" width="30px">I'm Prathmesh Bhansali** 🎯️🚀️</p>
+# <p align="center">️ **Hello World !!<img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" alt="waving hand" width="30px">** 🎯️🚀️</p>
 <h3 align="center">A passionate developer from India</h3>
-
+<p align = "center"> 
+ <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/Cover%20Banner.png" alt="cover banner" width="100%">
+</p>  
 - 🔭 I’m currently working on **Angular and Django**
 
 - 🌱 I’m currently learning **Machine Learning and Competitive Programming**
