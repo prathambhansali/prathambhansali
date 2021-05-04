@@ -6,7 +6,8 @@
    <h3 align="center">I'm a Passionate Developer from India ❤🚀️</h3>
      
    A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
-   <img width="50%" height="50%" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/coding.gif" />
+   <br>
+   <img width="300" height="300" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/coding.gif" />
    
    - 🔭 I’m currently working on **Angular and Django**
    
@@ -35,7 +36,8 @@
        <a href="https://auth.geeksforgeeks.org/user/pratham10/profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="pratham10/profile" height="30" width="40" /></a>
        <a href="https://www.topcoder.com/members/pratham10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/topcoder.svg" alt="pratham10" height="30" width="40" /></a>
    </div>
-   <h3 align="center">Languages and Tools:</h3>
+    <br>
+ <h3 align="center">Languages and Tools:</h3>
 <div align="center"> 
     <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
