@@ -16,35 +16,36 @@
    - 📫 How to reach me **prathambhansali10@gmail.com**
    
 <h2 align="left">⚡ Connect with me:</h2>
-<div align="center">
-    <a href="https://linkedin.com/in/prathmeshbhansali" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/linkedin.png" alt="prathmeshbhansali" height="50" width="50" /></a>
-    <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/twitter.png" alt="_pratham__" height="50" width="50" /></a>
-    <a href="https://www.facebook.com/prathambhansali10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/facebook.png" alt="prathambhansali10" height="50" width="50" /></a>
-    <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/instagram.png" alt="_.pratham.__" height="50" width="50" /></a>
+<div align="left">
+    <a href="https://linkedin.com/in/prathmeshbhansali" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/linkedin.png" alt="prathmeshbhansali" height="40" width="40" /></a>
+    <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/twitter.png" alt="_pratham__" height="40" width="40" /></a>
+    <a href="https://www.facebook.com/prathambhansali10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/facebook.png" alt="prathambhansali10" height="40" width="40" /></a>
+    <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/instagram.png" alt="_.pratham.__" height="40" width="40" /></a>
 </div>
 <br>
 <h2 align="left">⚡ Blogging:</h2>
-<div align="center">
-    <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/dev.png" alt="@_pratham__" height="50" width="50" /></a>
-    <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/medium.png" alt="@prathmesh-bhansali" height="50" width="50" /></a>
-    <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hashnode.png" alt="@prathmesh-bhansali" height="50" width="50" /></a>
-    <a href="https://hackernoon.com/u/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackernoon.png" alt="@prathmesh-bhansali" height="50" width="50" /></a>
+<div align="left">
+    <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/dev.png" alt="@_pratham__" height="40" width="40" /></a>
+    <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/medium.png" alt="@prathmesh-bhansali" height="40" width="40" /></a>
+    <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hashnode.png" alt="@prathmesh-bhansali" height="40" width="40" /></a>
+    <a href="https://hackernoon.com/u/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackernoon.png" alt="@prathmesh-bhansali" height="40" width="40" /></a>
 </div>
 <br>
 <h2 align="left">⚡ Competitive Programming & Hackthons:</h2>
-<div align="center">
-    <a href="https://www.codechef.com/users/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codechef.jpg" alt="prathamb_10" height="50" width="50" /></a>
-    <a href="https://www.hackerrank.com/prathambhansali" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerrankpng" alt="prathambhansali" height="50" width="50" /></a>
-    <a href="https://codeforces.com/profile/pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codechef.png" alt="pratham_10" height="50" width="50" /></a>
-    <a href="https://www.leetcode.com/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/leetcode.png" alt="prathamb_10" height="50" width="50" /></a>
-    <a href="https://www.hackerearth.com/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" alt="@pratham_10" height="50" width="50" /></a>
-    <a href="https://www.topcoder.com/members/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/topcoder.png" alt="pratham10" height="50" width="50" /></a>
-    <a href="https://kaggle.com/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/kaggle.png" alt="pratham10" height="50" width="50" /></a>
-    <a href="https://jovian.ai/pratham-10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/jovian.png" alt="pratham-10" height="50" width="50" /></a>
+<div align="left">
+    <a href="https://www.codechef.com/users/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codechef.jpg" alt="prathamb_10" height="40" width="40" /></a>
+    <a href="https://www.hackerrank.com/prathambhansali" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerrank.png" alt="prathambhansali" height="40" width="40" /></a>
+    <a href="https://codeforces.com/profile/pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codeforces.png" alt="pratham_10" height="40" width="40" /></a>
+    <a href="https://www.leetcode.com/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/leetcode.png" alt="prathamb_10" height="40" width="40" /></a>
+    <a href="https://www.hackerearth.com/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" alt="@pratham_10" height="40" width="40" /></a>
+    <a href="https://www.topcoder.com/members/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/topcoder.png" alt="pratham10" height="40" width="40" /></a>
+    <a href="https://kaggle.com/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/kaggle.png" alt="pratham10" height="40" width="40" /></a>
+    <a href="https://jovian.ai/pratham-10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/jovian.png" alt="pratham-10" height="40" width="40" /></a>
+    <a href="https://devfolio.co/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/devfolio.png" alt="pratham-10" height="40" width="40" /></a>
 </div>
 <br>
 <h2 align="left">💻 Languages and Tools:</h2>
-<div align="center"> 
+<div align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
     <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> 
