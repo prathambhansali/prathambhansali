@@ -71,9 +71,7 @@ A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web
         <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
     </div>
-    <div align="right">
-        <img width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25&layout=compact">
-    </div>
+  <img width="40%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham-10&theme=radical&line_height=25&layout=compact">
 </div>
 <p align = "center">
   <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
