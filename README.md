@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prathmesh Bhansali</h1>
+# <p align="center">️ **Hello!!<img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" alt="waving hand" width="30px">I'm Prathmesh Bhansali** 🎯️🚀️</p>
 <h3 align="center">A passionate developer from India</h3>
-
-<p align="left"> <a href="https://twitter.com/_pratham__" target="blank"><img src="https://img.shields.io/twitter/follow/_pratham__?logo=twitter&style=for-the-badge" alt="_pratham__" /></a> </p>
 
 - 🔭 I’m currently working on **Angular and Django**
 
