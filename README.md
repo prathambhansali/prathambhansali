@@ -6,8 +6,8 @@
 <h3 align="center">I'm a Passionate Developer from India ❤🚀️</h3>
      
    A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
-<br>
-<img width="300" height="300" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/coding.gif" />
+<br><br>
+<img width="300" height="300" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/programmer.gif"/>
 <br>
    - 🔭 I’m currently working on **Angular and Django**
    
@@ -25,7 +25,7 @@
 <br>
 <h2 align="left">⚡ Blogging:</h2>
 <div align="left">
-    <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="@_pratham__" width="40" height="40"/></a>
+    <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="@_pratham__" width="40" height="40"/></a>
     <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
     <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
 </div>
