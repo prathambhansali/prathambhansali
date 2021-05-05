@@ -8,7 +8,7 @@
    A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
 <br>
 <img width="300" height="300" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/coding.gif" />
-   
+<br>
    - 🔭 I’m currently working on **Angular and Django**
    
    - 🌱 I’m currently learning **Machine Learning and Competitive Programming**
@@ -17,18 +17,17 @@
    
 <h2 align="left">⚡ Connect with me:</h2>
 <div align="left">
-    <a href="https://linkedin.com/in/prathmeshbhansali" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="prathmeshbhansali" width="40" height="40"/></a>
-    <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="_pratham__" width="40" height="40"/></a>
-    <a href="https://www.facebook.com/prathambhansali10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="prathambhansali10" width="40" height="40"/></a>
-    <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="_.pratham.__" width="40" height="40"/></a>
+    <a href="https://linkedin.com/in/prathmeshbhansali" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="prathmeshbhansali" width="40" height="40"/></a>
+    <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="_pratham__" width="40" height="40"/></a>
+    <a href="https://www.facebook.com/prathambhansali10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="prathambhansali10" width="40" height="40"/></a>
+    <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="_.pratham.__" width="40" height="40"/></a>
 </div>
 <br>
 <h2 align="left">⚡ Blogging:</h2>
 <div align="left">
-    <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="@_pratham__" width="40" height="40"/></a>
-    <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/medium.png" alt="@prathmesh-bhansali" width="40" height="40"/></a>
+    <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-ar21.svg" alt="@_pratham__" width="40" height="40"/></a>
+    <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
     <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
-    <a href="https://hackernoon.com/u/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackernoon.png" alt="@prathmesh-bhansali" width="40" height="40"/></a>
 </div>
 <br>
 <h2 align="left">⚡ Competitive Programming & Hackthons:</h2>
@@ -47,6 +46,7 @@
 <h2 align="left">💻 Languages and Tools:</h2>
 <div align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
+    <a href="https://angular.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="python" width="50" height="50"/> </a> 
     <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
     <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> 
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
@@ -77,4 +77,4 @@
 </p>
 <p align = "center">
     <img src="https://activity-graph.herokuapp.com/graph?username=pratham-10&theme=redical">
-</p> 
+</p>  
