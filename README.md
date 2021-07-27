@@ -21,12 +21,7 @@
     <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="_pratham__" width="40" height="40"/></a>
     <a href="https://www.facebook.com/prathambhansali10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="prathambhansali10" width="40" height="40"/></a>
     <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="_.pratham.__" width="40" height="40"/></a>
-</div>
-<br>
-<h2 align="left">⚡ Blogging:</h2>
-<div align="left">
-    <a href="https://dev.to/@_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="@_pratham__" width="40" height="40"/></a>
-    <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
+     <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
     <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
 </div>
 <br>
@@ -37,10 +32,8 @@
     <a href="https://codeforces.com/profile/pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codeforces.png" alt="pratham_10" height="50" width="50" /></a>
     <a href="https://www.leetcode.com/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/leetcode.png" alt="prathamb_10" height="50" width="50" /></a>
     <a href="https://www.hackerearth.com/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" alt="@pratham_10" height="50" width="50" /></a>
-    <a href="https://www.topcoder.com/members/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/topcoder.png" alt="pratham10" height="50" width="50" /></a>
     <a href="https://kaggle.com/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/kaggle.png" alt="pratham10" height="50" width="50" /></a>
     <a href="https://jovian.ai/pratham-10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/jovian.png" alt="pratham-10" height="50" width="50" /></a>
-    <a href="https://devfolio.co/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/devfolio.png" alt="pratham-10" height="50" width="50" /></a>
 </div>
 <br>
 <h2 align="left">💻 Languages and Tools:</h2>
@@ -54,13 +47,11 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a> 
     <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="50" height="50"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
     <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-    <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
     <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
     <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> 
