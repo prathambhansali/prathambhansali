@@ -72,7 +72,6 @@
         </td>
     </tr>
 </table>
-<br>
 <h2 align="left">🥊 Competitive Programming & Hackthons:</h2>
 
 <table>
@@ -128,7 +127,6 @@
         </td>
     </tr>
 </table>
-<br>
 <h2 align="left">💻 Languages and Tools:</h2>
 
    <table>
@@ -277,7 +275,6 @@
         </td>
     </tr>
 </table> 
-<br>
 <h2 align="left">🏆 Stats:</h2>
 <p align = "center">
     <img width="48%" src ="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25">
