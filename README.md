@@ -39,28 +39,153 @@
 </div>
 <br>
 <h2 align="left">💻 Languages and Tools:</h2>
-<div align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a> 
-    <a href="https://angular.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="50" height="50"/> </a> 
-    <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/> </a> 
-    <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="50"/> </a> 
-    <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-    <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="50" height="50"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a> 
-    <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> 
-    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/> </a> 
-    <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="50" height="50"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a> 
+<div> 
+   <table>
+    <tr>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    width="48" height="48" alt="Python" />
+            </a>
+            <br>Python
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+                    width="48" height="48" alt="Java" />
+            </a>
+            <br>Java
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="48" height="48"
+                    alt="Angular" />
+            </a>
+            <br>Angular
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+                    width="48" height="48" alt="AWS" />
+            </a>
+            <br>AWS
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48"
+                    alt="GCP" />
+            </a>
+            <br>GCP
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+                    width="48" height="48" alt="React" />
+            </a>
+            <br>React
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+                    width="48" height="48" alt="C++" />
+            </a>
+            <br>C++
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+                    width="48" height="48" alt="Sass" />
+            </a>
+            <br>Sass
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+                    width="48" height="48" alt="MongodDB" />
+            </a>
+            <br>MongodDB
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+                    width="48" height="48" alt="NodeJs" />
+            </a>
+            <br>NodeJs
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                    width="48" height="48" alt="Docker" />
+            </a>
+            <br>Docker
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+                    width="48" height="48" alt="Django" />
+            </a>
+            <br>Django
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+                    width="48" height="48" alt="Linux(Fedora)" />
+            </a>
+            <br>Linux(Fedora)
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48"
+                    alt="Git" />
+            </a>
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" width="48" height="48"
+                    alt="Ionic" />
+            </a>
+            <br>Ionic
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+                    width="48" height="48" alt="MySQL" />
+            </a>
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
+                    width="48" height="48" alt="Postgresql" />
+            </a>
+            <br>Postgresql
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+                    width="48" height="48" alt="JavaScript" />
+            </a>
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+                    width="48" height="48" alt="TypeScript" />
+            </a>
+            <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="48" height="48"
+                    alt="Tensorflow" />
+            </a>
+            <br>Tensorflow
+        </td>
+    </tr>
+</table> 
 </div>
 <br>
 <h2 align="left">🏆 Stats:</h2>
