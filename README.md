@@ -2,13 +2,13 @@
     <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/Cover%20Banner.png">
 </p> 
 <h1 align="center"> Hello World <img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" width="30px"> ! </h1>
-   
+  
 <h3 align="center">I'm a Passionate Developer from India ❤🚀️</h3>
-     
+ 
    A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
 <br>
-<img width="370" height="300" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/programmer.gif"/>
-<br>
+<img width="350" height="250" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/programmer.gif"/>
+
    - 🔭 I’m currently working on **Angular and Django**
    
    - 🌱 I’m currently learning **Machine Learning and Competitive Programming**
@@ -18,29 +18,119 @@
    - 📫 How to reach me **prathambhansali10@gmail.com**
    
 <h2 align="left">⚡ Lets's Connect:</h2>
-<div align="left">
-    <a href="https://linkedin.com/in/prathmeshbhansali" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="prathmeshbhansali" width="40" height="40"/></a>
-    <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="_pratham__" width="40" height="40"/></a>
-    <a href="https://www.facebook.com/prathambhansali10" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="prathambhansali10" width="40" height="40"/></a>
-    <a href="https://instagram.com/_.pratham.__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" alt="_.pratham.__" width="40" height="40"/></a>
-     <a href="https://prathambhansali10.medium.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
-    <a href="https://prathmeshbhansali.hashnode.dev" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" alt="@prathmesh-bhansali" width="40" height="40"/></a>
-</div>
+
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a target="blank" href="https://linkedin.com/in/prathmeshbhansali">
+                <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
+                    width="48" height="48" alt="LinkedIN" />
+            </a>
+            <br>LinkedIN
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://twitter.com/_pratham__">
+                <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="48"
+                    height="48" alt="Twitter" />
+            </a>
+            <br>Twitter
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://www.facebook.com/prathambhansali10">
+                <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="48"
+                    height="48" alt="Facebook" />
+            </a>
+            <br>Facebook
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://instagram.com/_.pratham.__">
+                <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="48"
+                    height="48" alt="Instagram" />
+            </a>
+            <br>Instagram
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://www.facebook.com/prathambhansali10">
+                <img src="https://img.icons8.com/fluency/144/000000/discord-new-logo.png" width="48" height="48"
+                    alt="Discord" />
+            </a>
+            <br>Discord
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://prathambhansali10.medium.com/">
+                <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg"width="48"
+                    height="48" alt="Medium" />
+            </a>
+            <br>Medium
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://prathmeshbhansali.hashnode.dev">
+                <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" width="48" height="48"
+                    alt="Hashnode" />
+            </a>
+            <br>Hashnode
+        </td>
+    </tr>
+</table>
 <br>
-<h2 align="left">⚡ Competitive Programming & Hackthons:</h2>
-<div align="left">
-    <a href="https://www.codechef.com/users/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codechef.jpg" alt="prathamb_10" height="50" width="50" /></a>
-    <a href="https://www.hackerrank.com/prathambhansali" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerrank.png" alt="prathambhansali" height="50" width="50" /></a>
-    <a href="https://codeforces.com/profile/pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/codeforces.png" alt="pratham_10" height="50" width="50" /></a>
-    <a href="https://www.leetcode.com/prathamb_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/leetcode.png" alt="prathamb_10" height="50" width="50" /></a>
-    <a href="https://www.hackerearth.com/@pratham_10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" alt="@pratham_10" height="50" width="50" /></a>
-    <a href="https://kaggle.com/pratham10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/kaggle.png" alt="pratham10" height="50" width="50" /></a>
-    <a href="https://jovian.ai/pratham-10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/jovian.png" alt="pratham-10" height="50" width="50" /></a>
-</div>
+<h2 align="left">🥊 Competitive Programming & Hackthons:</h2>
+
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a target="blank" href="https://www.codechef.com/users/prathamb_10">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+                    width="48" height="48" alt="CodeChef" />
+            </a>
+            <br>CodeChef
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://www.hackerrank.com/prathambhansali">
+                <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerrank.png" width="48"
+                    height="48" alt="HackerRank" />
+            </a>
+            <br>HackerRank
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://codeforces.com/profile/pratham_10">
+                <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/codeforces.png" width="48"
+                    height="48" alt="CodeForces" />
+            </a>
+            <br>CodeForces
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://www.leetcode.com/prathamb_10">
+                <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/leetcode.png" width="48"
+                    height="48" alt="LeetCode" />
+            </a>
+            <br>LeetCode
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://www.hackerearth.com/@pratham_10">
+                <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" width="48"
+                    height="48" alt="HackerEarth" />
+            </a>
+            <br>HackerEarth
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://kaggle.com/pratham10">
+                <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/kaggle.png" width="48" height="48"
+                    alt="Kaggle" />
+            </a>
+            <br>Kaggle
+        </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://jovian.ai/pratham-10">
+                <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/jovian.png" width="48" height="48"
+                    alt="Jovian" />
+            </a>
+            <br>Jovian
+        </td>
+    </tr>
+</table>
 <br>
-<details>
 <h2 align="left">💻 Languages and Tools:</h2>
-<div> 
+
    <table>
     <tr>
         <td align="center" width="96">
@@ -187,8 +277,6 @@
         </td>
     </tr>
 </table> 
-</div>
-</details>
 <br>
 <h2 align="left">🏆 Stats:</h2>
 <p align = "center">
