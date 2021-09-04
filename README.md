@@ -38,6 +38,7 @@
     <a href="https://jovian.ai/pratham-10" target="blank"><img align="center" src="https://github.com/pratham-10/pratham-10/blob/master/assets/jovian.png" alt="pratham-10" height="50" width="50" /></a>
 </div>
 <br>
+<details>
 <h2 align="left">💻 Languages and Tools:</h2>
 <div> 
    <table>
@@ -187,6 +188,7 @@
     </tr>
 </table> 
 </div>
+</details>
 <br>
 <h2 align="left">🏆 Stats:</h2>
 <p align = "center">
