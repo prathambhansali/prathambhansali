@@ -12,10 +12,12 @@
    - 🔭 I’m currently working on **Angular and Django**
    
    - 🌱 I’m currently learning **Machine Learning and Competitive Programming**
+ 
+   - ✌  Do visit on my portfolio website **<a href="http://prathmeshbhansali.me/" target="blank">http://prathmeshbhansali.me/</a>**
    
    - 📫 How to reach me **prathambhansali10@gmail.com**
    
-<h2 align="left">⚡ Connect with me:</h2>
+<h2 align="left">⚡ Lets's Connect:</h2>
 <div align="left">
     <a href="https://linkedin.com/in/prathmeshbhansali" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="prathmeshbhansali" width="40" height="40"/></a>
     <a href="https://twitter.com/_pratham__" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="_pratham__" width="40" height="40"/></a>
