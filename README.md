@@ -5,7 +5,7 @@
   
 <h3 align="center">I'm a Passionate Developer from India ❤🚀️</h3>
  
-   A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
+  <h4> A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
 <br>
 <img width="350" height="250" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/programmer.gif"/>
 
@@ -15,7 +15,7 @@
  
    - ✌  Do visit on my portfolio website **<a href="http://prathmeshbhansali.me/" target="blank">http://prathmeshbhansali.me/</a>**
    
-   - 📫 How to reach me **prathambhansali10@gmail.com**
+   - 📫 How to reach me **prathambhansali10@gmail.com**</h4>
    
 <h2 align="left">⚡ Lets's Connect:</h2>
 
@@ -73,7 +73,6 @@
     </tr>
 </table>
 <h2 align="left">🥊 Competitive Programming & Hackthons:</h2>
-
 <table>
     <tr>
         <td align="center" width="96">
@@ -127,8 +126,7 @@
         </td>
     </tr>
 </table>
-<h2 align="left">💻 Languages and Tools:</h2>
-
+<h2 align="left">💻 Languages, Frameworks & Tools:</h2>
    <table>
     <tr>
         <td align="center" width="96">
