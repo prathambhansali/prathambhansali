@@ -69,6 +69,13 @@
             </a>
             <br>Hashnode
         </td>
+        <td align="center" width="96">
+            <a target="blank" href="https://www.npmjs.com/~prathamb10">
+                <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" width="48" height="48"
+                    alt="NPM" />
+            </a>
+            <br>NPM
+        </td>
     </tr>
 </table>
 <h2 align="left">🥊 Competitive Programming & Hackthons:</h2>
