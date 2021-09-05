@@ -4,11 +4,10 @@
 <h1 align="center"> Hello World <img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" width="30px"> ! </h1>
   
 <h3 align="center">I'm a Passionate Developer from India ❤🚀️</h3>
- 
-  <h4> A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot: 
-<br>
-<img width="350" height="250" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/programmer.gif"/>
 
+<img width="350" height="250" align="right" alt="Image" src="https://github.com/pratham-10/pratham-10/blob/master/assets/programmer.gif"/>
+<h4> A 20Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot:
+    
    - 🔭 I’m currently working on **Angular and Django**
    
    - 🌱 I’m currently learning **Machine Learning and Competitive Programming**
