@@ -17,46 +17,46 @@
 <h2 align="left">⚡ Lets's Connect:</h2>
 <p align="left">
     <a target="blank" href="https://linkedin.com/in/prathmeshbhansali">
-        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="48" height="48" alt="LinkedIN" />
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45" height="45" alt="LinkedIN" />
     </a>
     <a target="blank" href="https://twitter.com/_pratham__">
-        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="48" height="48" alt="Twitter" />
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="45" height="45" alt="Twitter" />
     </a>
     <a target="blank" href="https://www.facebook.com/prathambhansali10">
-        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="48" height="48" alt="Facebook" />
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" width="45" height="45" alt="Facebook" />
     </a>
     <a target="blank" href="https://instagram.com/_.pratham.__">
-        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="48" height="48" alt="instagram" />
+        <img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="45" height="45" alt="instagram" />
     </a>
     <a target="blank" href="https://www.facebook.com/prathambhansali10">
-        <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="48" height="48" alt="Discord" />
+        <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" width="45" height="45" alt="Discord" />
     </a>
     <a target="blank" href="https://prathambhansali10.medium.com/">
-        <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="48" height="48" alt="Medium" />
+        <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" width="45" height="45" alt="Medium" />
     </a>
     <a target="blank" href="https://prathmeshbhansali.hashnode.dev">
-        <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" width="48" height="48" alt="Hashnode" />
+        <img src="https://www.vectorlogo.zone/logos/hashnode/hashnode-icon.svg" width="45" height="45" alt="Hashnode" />
     </a>
     <a target="blank" href="https://www.npmjs.com/~prathamb10">
-        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" width="48" height="48" alt="NPM" />
+        <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" width="45" height="45" alt="NPM" />
     </a>
 </p>
 <h2 align="left">🥊 Competitive Programming & Hackthons:</h2>
 <p align="left">
     <a target="blank" href="https://www.codechef.com/users/prathamb_10">
-        <img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" width="48" height="48" alt="CodeChef" />
+        <img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" width="45" height="45" alt="CodeChef" />
     </a>
     <a target="blank" href="https://www.hackerrank.com/prathambhansali">
-        <img src="https://cdn.iconscout.com/icon/free/png-64/hackerrank-3521478-2944922.png" width="48" height="48" alt="HackerRank" />
+        <img src="https://cdn.iconscout.com/icon/free/png-64/hackerrank-3521478-2944922.png" width="45" height="45" alt="HackerRank" />
     </a>
     <a target="blank" href="https://www.leetcode.com/prathamb_10">
-        <img src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3521542-2944960.png" width="48" height="48" alt="LeetCode" />
+        <img src="https://cdn.iconscout.com/icon/free/png-64/leetcode-3521542-2944960.png" width="45" height="45" alt="LeetCode" />
     </a>
     <a target="blank" href="https://www.hackerearth.com/@pratham_10">
-        <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" width="48" height="48" alt="HackerEarth" />
+        <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/hackerearth.png" width="45" height="45" alt="HackerEarth" />
     </a>
     <a target="blank" href="https://kaggle.com/pratham10">
-        <img src="https://cdn.iconscout.com/icon/free/png-64/kaggle-3521526-2945029.png" width="48" height="48"  alt="Kaggle" />
+        <img src="https://cdn.iconscout.com/icon/free/png-64/kaggle-3521526-2945029.png" width="45" height="45"  alt="Kaggle" />
     </a>
 </p>
 <h2 align="left">💻 Languages, Frameworks & Tools:</h2>
