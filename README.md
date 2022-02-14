@@ -60,7 +60,7 @@
     </a>
 </p>
 <h2 align="left">💻 Languages, Frameworks & Tools:</h2>
-<p align="center">
+<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
@@ -251,6 +251,8 @@
   </a>
 </p>
 <h2 align="left">🧾 Blogs:</h2>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <h2 align="left">🏆 Stats:</h2>
 <p align="center">
   <img
