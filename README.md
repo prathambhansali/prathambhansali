@@ -17,7 +17,6 @@
 </h4>
 
 <h2 align="left">⚡ Lets's Connect:</h2>
-<p align="left">
     <a target="blank" href="https://linkedin.com/in/prathmeshbhansali">
         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="45" height="45" alt="LinkedIN" />
     </a>
@@ -42,9 +41,8 @@
     <a target="blank" href="https://www.npmjs.com/~prathamb10">
         <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-tile.svg" width="45" height="45" alt="NPM" />
     </a>
-</p>
+    
 <h2 align="left">🥊 Competitive Programming & Hackthons:</h2>
-<p align="left">
     <a target="blank" href="https://www.codechef.com/users/prathamb_10">
         <img src="https://upload.vectorlogo.zone/logos/codechef/images/c0290608-3c6b-406c-90ef-86e9200f383a.svg" width="45" height="45" alt="CodeChef" />
     </a>
@@ -60,13 +58,19 @@
     <a target="blank" href="https://kaggle.com/pratham10">
         <img src="https://cdn.iconscout.com/icon/free/png-64/kaggle-3521526-2945029.png" width="45" height="45"  alt="Kaggle" />
     </a>
-</p>
 <h2 align="left">💻 Languages, Frameworks & Tools:</h2>
-<p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
+      width="45"
+      height="45"
+    />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png"
+      alt="soliditylang"
       width="45"
       height="45"
     />
@@ -97,7 +101,7 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
+      src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"
       alt="django"
       width="45"
       height="45"
@@ -251,7 +255,7 @@
       height="45"
     />
   </a>
-</p>
+  
 <h2 align="left">🧾 Blogs:</h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
