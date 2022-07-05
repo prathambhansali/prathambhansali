@@ -4,7 +4,7 @@
 <h1 align="center"> Hello Dev's! </h1>
  <h4>  
     <a align="left" href="https://app.daily.dev/pratham_10">
-     <img src="https://github.com/prathambhansali/pratham-10/blob/master/devcard.svg" width="30%" alt="Pratham's Dev Card" align="right"/></a>
+     <img src="https://github.com/prathambhansali/prathambhansali/blob/master/devcard.svg" width="30%" alt="Pratham's Dev Card" align="right"/></a>
     A 21Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot:
     
    - 🔭 I’m currently working on **Spring, React and AWS**
@@ -263,15 +263,15 @@
 <p align="center">
   <img
     width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=pratham-10&show_icons=true&theme=radical&line_height=25"
+    src="https://github-readme-stats.vercel.app/api?username=prathambhansali&show_icons=true&theme=radical&line_height=25"
   />
   <img
     width="48%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=pratham-10&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=prathambhansali&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0"
   />
 </p>
 <p align="center">
   <img
-    src="https://activity-graph.herokuapp.com/graph?username=pratham-10&theme=redical"
+    src="https://activity-graph.herokuapp.com/graph?username=prathambhansali&theme=redical"
   />
 </p>
