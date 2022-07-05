@@ -1,10 +1,10 @@
 <p align = "center">
     <img src="https://github.com/pratham-10/pratham-10/blob/master/assets/cover.jpg">
 </p> 
-<h1 align="center"> Hello Dev's <img src="https://raw.githubusercontent.com/pratham-10/pratham-10/master/assets/wave.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello Dev's! </h1>
  <h4>  
     <a align="left" href="https://app.daily.dev/pratham_10">
-     <img src="https://github.com/pratham-10/pratham-10/blob/master/devcard.svg" width="30%" alt="Pratham's Dev Card" align="right"/></a>
+     <img src="https://github.com/prathambhansali/pratham-10/blob/master/devcard.svg" width="30%" alt="Pratham's Dev Card" align="right"/></a>
     A 21Y/O Passionate developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Artificial Intelligence and Machine Learning :robot:
     
    - 🔭 I’m currently working on **Spring, React and AWS**
